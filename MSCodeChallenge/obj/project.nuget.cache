@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPUPokEOZ7VmqkStaSBP1XbnvpMcAhgqxmVVkpoL3j5qfIGV3/p8SmaQuskj0g6J1shDGRRub2DGGIAoQigyCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avksm\\source\\repos\\MSCodeChallenge\\MSCodeChallenge\\MSCodeChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avksm\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\bin\Debug\net6.0\MSCodeChallenge.exe
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\bin\Debug\net6.0\MSCodeChallenge.deps.json
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\bin\Debug\net6.0\MSCodeChallenge.runtimeconfig.json
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\bin\Debug\net6.0\MSCodeChallenge.dll
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\bin\Debug\net6.0\MSCodeChallenge.pdb
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.csproj.AssemblyReference.cache
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.AssemblyInfo.cs
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.csproj.CopyComplete
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.dll
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\refint\MSCodeChallenge.dll
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.pdb
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\MSCodeChallenge.genruntimeconfig.cache
+C:\Users\avksm\source\repos\MSCodeChallenge\MSCodeChallenge\obj\Debug\net6.0\ref\MSCodeChallenge.dll
